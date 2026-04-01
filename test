@@ -1,2 +1,2 @@
-<body>
-print(하이하이)
+int age = 25;
+console.whiteline("제 나이는" +age "입니다"
